@@ -1,4 +1,4 @@
-# The-Production-of-DRM
+# The-Recurrence-of-DRM(Deep Ritz Method)
 ## Project Intruduction
 It's a project used as a work for Guangdong-Hong Kong-Macao Greater Bay Area 1st AI4S competition.It's also my first time to use the knowledge of Deep Learning to solve some Possion Equation in multi-dimension.The model was not so good,the graph may be not accurate.Through that I hope I could find the interdiscipline between the Computer Science in the part of artificial intelligence and energy and powering engineering.
 ## Some Link contributed to this project
